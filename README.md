@@ -1,5 +1,5 @@
 # About...
-It is a visual presentation of challenges faced by urban ares due to shortage of water. It is an arduino powered prototype using which the visualization of the project was demonstrated. 
+It is a visual presentation of challenges faced in the urban areas due to shortage of water. It is an arduino powered prototype using which the visualization of the project was demonstrated. 
 
 ## Salient features of the project
 * It is an integration of hardware and software.
